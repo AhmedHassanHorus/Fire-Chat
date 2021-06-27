@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681588218722",
+    "project_id": "fire-chat-daf91",
+    "storage_bucket": "fire-chat-daf91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681588218722:android:9a22a0954202e1adb56a3b",
+        "android_client_info": {
+          "package_name": "com.horusahmedhassanali.fire_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681588218722-h6o5p6qvna1jbtgoik4nutopcvjko1gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOyFA6vDxW-LZzAjbFSbzFyxb01Jt63ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681588218722-h6o5p6qvna1jbtgoik4nutopcvjko1gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
